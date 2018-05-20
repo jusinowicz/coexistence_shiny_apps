@@ -6,4 +6,8 @@ A .csv file of populations can be downloaded.
 
 The code can be downloaded and run locally with the shiny R library. It is also run on a server at:
 
-https://ecotheory.shinyapps.io/
+Leslie-Gower model: 
+https://ecotheory.shinyapps.io/leslie_gower
+
+Lottery model:
+https://ecotheory.shinyapps.io/lottery_model
