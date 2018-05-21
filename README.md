@@ -10,4 +10,4 @@ Leslie-Gower model:
 https://ecotheory.shinyapps.io/leslie_gower
 
 Lottery model:
-https://ecotheory.shinyapps.io/lottery_model
+https://ecotheory.shinyapps.io/lottery
